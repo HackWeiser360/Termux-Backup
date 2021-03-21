@@ -1,5 +1,4 @@
-# A tool by nitrp from www.HackWeiser360.com
-# Be a unique person not copy cat
+#!/system/bin/sh
 # Colours
 #-----------------
 red='\033[1;31m'
@@ -13,22 +12,14 @@ pink='\033[1;35m'
 # Coding starts
 clear
 echo '
-                        .--.    .--,
-                        |  |   /  /
-                        |  |  /  /
-                        |  | /  /
-                        |  |/  ;-._
-                        |  ` _/  / ;
-                        |  /` ) /  /
-                        | /  /_/\_/\
-                        |/  /      |
-                        (    \  -  |
-                         \    `.  /
-                          |      |
-                          |      |
-                                   _
-                          _ __  _ |_)
-                         _> | |(_||v1.0 '|lolcat
+
+|^^^^^^^^^^^^^^|╮__
+| BackUp v1.1   |""\___ 
+|_______________|__|)__|
+|(0)(0)""**|(0)(0)**|(0)
+
+
+       '|lolcat
 echo 
 
 echo 
@@ -39,10 +30,10 @@ echo " "
 echo -e "$grn                          > $ylo [Options]$grn <$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [1] Termux backup"
-echo -e "$red                        ➡$cyan [2] Termux restore"
-echo -e "$red                        ➡$cyan [3] Update script"
-echo -e "$red                        ➡$cyan [4]️ Exit"
+echo -e "$red                        个$cyan [1] Termux backup"
+echo -e "$red                        个$cyan [2] Termux restore"
+echo -e "$red                        个$cyan [3] Update script"
+echo -e "$red                        个$cyan [4]️ Exit"
 echo " "
 echo " "
 echo -e "$grn                         >$ylo [SELECT]$grn <$rset"
