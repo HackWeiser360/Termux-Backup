@@ -30,10 +30,10 @@ echo " "
 echo -e "$grn                          > $ylo [Options]$grn <$rset"
 echo " "
 echo " "
-echo -e "$red                        个$cyan [1] Termux backup"
-echo -e "$red                        个$cyan [2] Termux restore"
-echo -e "$red                        个$cyan [3] Update script"
-echo -e "$red                        个$cyan [4]️ Exit"
+echo -e "$red                        ●∈$cyan [1] Termux backup"
+echo -e "$red                        ●∈$cyan [2] Termux restore"
+echo -e "$red                        ●∈$cyan [3] Update script"
+echo -e "$red                        ●∈$cyan [4]️ Exit"
 echo " "
 echo " "
 echo -e "$grn                         >$ylo [SELECT]$grn <$rset"
@@ -138,7 +138,7 @@ echo -e "$grn
      ____  _  _  ____    ____  _  _  ___
     (  _ \( \/ )( ___)  (  _ \( \/ )( ___)
      ) _ < \  /  )__)    ) _ < \  /  )__)
-    (____/ (__) (____)  (____/ (__) (____)...$cyan Visit github.com/HackWeiser360 for more tools buddy.$rset"
+    (____/ (__) (____)  (____/ (__) (____)..$cyan Visit github.com/HackWeiser360 for more tools buddy.$rset"
 echo " "
 echo " "
 cd $HOME
