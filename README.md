@@ -1,4 +1,5 @@
 # Termux-Backup
+![Screenshot](Screenshot_20210326-153617.png)
 Termux-Backup is a bash based tool for backing up and restoring Termux data. It works in both rooted and non rooted devices.Perfect!!! I tested the tool in Termux only but you can try installing it in Kali or another operating system.
 
 ***
